@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+li{
+    list-style: none;
+    padding-right: 60px;
+    color: white;
+    cursor: pointer;
+}
+.active{
+    background-color: rgb(47, 47, 189);
+    color: white;
+    border-radius: 4px;
+    padding: 2px 8px;
+    width: auto;
+}
